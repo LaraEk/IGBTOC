@@ -8,15 +8,29 @@ body {
 
 // app styles
 
-// ant styles
-
-.ant-layout-content {
+.containercol {
   color: "#fff";
   background-color: #000000d6;
-  padding: 50px;
-  margin: 5% 20%;
+  padding: 0px 10px;
+  margin-top: 5%;
   border-radius: 20px;
   box-shadow: 1px 1px 2px black, 0 0 25px rgb(179, 179, 236),
     0 0 5px rgb(247, 84, 152);
   // border: 1px rgb(224, 229, 230) solid;
 }
+
+// ant styles
+
+div.ant-layout {
+  background: transparent;
+}
+
+// ~:~:~:~
+// not used
+// ~:~:~:~
+
+// .itsamenu {
+//   background-color: #fff;
+//   position: relative;
+//   width: auto;
+// }
