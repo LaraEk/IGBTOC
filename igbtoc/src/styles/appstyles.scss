@@ -1,5 +1,7 @@
 @import "./colors.scss";
 
+// global styles
+
 body {
   background-image: url("./m31_gendler_1955.jpg");
   background-repeat: no-repeat;
@@ -19,6 +21,16 @@ body {
   // border: 1px rgb(224, 229, 230) solid;
 }
 
+.itsamenu {
+  background: transparent;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom: 1px rgb(224, 229, 230) solid;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+
 // ant styles
 
 div.ant-layout {
@@ -28,9 +40,3 @@ div.ant-layout {
 // ~:~:~:~
 // not used
 // ~:~:~:~
-
-// .itsamenu {
-//   background-color: #fff;
-//   position: relative;
-//   width: auto;
-// }

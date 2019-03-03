@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "drink": "Cheese Mousse Royal Tea",
+    "teashop": "Royal Tea",
+    "cost": 5.5
+  },
+  {
+    "id": 2,
+    "drink": "Cheese Mousse Jasmine Green Tea",
+    "teashop": "Royal Tea",
+    "cost": 5
+  },
+  {
+    "id": 3,
+    "drink": "Cheese Mousse Peach Oolong",
+    "teashop": "Royal Tea",
+    "cost": 5
+  },
+  {
+    "id": 4,
+    "drink": "Cheese Mousse Rose Pu'er",
+    "teashop": "Royal Tea",
+    "cost": 5
+  },
+  {
+    "id": 5,
+    "drink": "Fresh Brew Royal Tea",
+    "teashop": "Royal Tea",
+    "cost": 4.5
+  },
+  {
+    "id": 6,
+    "drink": "Fresh Brew Lychee Black Tea",
+    "teashop": "Royal Tea",
+    "cost": 4
+  },
+  {
+    "id": 7,
+    "drink": "Fresh Brew Jasmine Green Tea",
+    "teashop": "Royal Tea",
+    "cost": 4
+  },
+  {
+    "id": 8,
+    "drink": "Fresh Brew Peach Oolong",
+    "teashop": "Royal Tea",
+    "cost": 4
+  },
+  {
+    "id": 9,
+    "drink": "Fresh Brew Rose Pu'er'",
+    "teashop": "Royal Tea",
+    "cost": 4
+  },
+  {
+    "id": 10,
+    "drink": "Kung Fu Black Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 11,
+    "drink": "Kung Fu Green Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 12,
+    "drink": "Kung Fu Oolong Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 13,
+    "drink": "Kung Fu Honey Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 14,
+    "drink": "Kung Fu Winter Melon Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 15,
+    "drink": "Winter Melong Green Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 16,
+    "drink": "Honey Black Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 17,
+    "drink": "Honey Green Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 18,
+    "drink": "Honey Oolong Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  },
+  {
+    "id": 19,
+    "drink": "Longan Jujube Tea",
+    "teashop": "Kung Fu Tea",
+    "cost": 3.5
+  }
+]
